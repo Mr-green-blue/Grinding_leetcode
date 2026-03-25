@@ -14,6 +14,8 @@ A daily log of my LeetCode problem-solving journey — including problem descrip
 | Mar 22, 2026 | 2965 | [Find Missing and Repeated Values](Easy%20/2965.%20Find%20Missing%20and%20Repeated%20Values) | 🟢 Easy | Math / frequency count | O(n²) | O(1) |
 | Mar 22, 2026 | 15 | [3Sum](Medium/15.%203Sum) | 🟡 Medium | Sort + Two Pointers | O(n²) | O(1) |
 | Mar 22, 2026 | 1929 | [Concatenation of Array](Easy%20/1929.%20Concatenation%20of%20Array) | 🟢 Easy | Single pass fill | O(n) | O(n) |
+| Mar 23, 2026 | 1351 | [Count Negative Numbers in a Sorted Matrix](Easy%20/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) | 🟢 Easy | Staircase (top-left walk) | O(m+n) | O(1) |
+| Mar 25, 2026 | 167 | [Two Sum II - Input Array Is Sorted](Medium/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) | 🟡 Medium | Two Pointers | O(n) | O(1) |
 
 ---
 
@@ -23,11 +25,13 @@ A daily log of my LeetCode problem-solving journey — including problem descrip
 .
 ├── Easy/
 │   ├── 1051. Height Checker
+│   ├── 1351. Count Negative Numbers in a Sorted Matrix
 │   ├── 1929. Concatenation of Array
 │   ├── 448. Find All Numbers Disappeared in an Array
 │   └── 2965. Find Missing and Repeated Values
 ├── Medium/
 │   ├── 15. 3Sum
+│   ├── 167. Two Sum II - Input Array Is Sorted
 │   └── 55. Jump Game
 └── Hard/
 ```
@@ -38,8 +42,8 @@ A daily log of my LeetCode problem-solving journey — including problem descrip
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 4      |
-| 🟡 Medium  | 2      |
+| 🟢 Easy    | 5      |
+| 🟡 Medium  | 3      |
 | 🔴 Hard    | 0      |
-| **Total**  | **6**  |
+| **Total**  | **8**  |
 

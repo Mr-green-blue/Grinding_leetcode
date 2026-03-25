@@ -1,0 +1,42 @@
+Question : 
+
+Given a m x n matrix grid which is sorted in non-increasing order both row-wise and column-wise, return the number of negative numbers in grid.
+
+ 
+
+Example 1:
+
+Input: grid = [[4,3,2,-1],[3,2,1,-1],[1,1,-1,-2],[-1,-1,-2,-3]]
+Output: 8
+Explanation: There are 8 negatives number in the matrix.
+Example 2:
+
+Input: grid = [[3,2],[1,0]]
+Output: 0
+
+Solution :
+Approuch : staricase method 
+Thinking : The whole 2d list are arranged in non increasing order so if the element in the single
+            list is negative then the next element will be negative so we can use this property to 
+            find the number of negative numbers
+            
+
+class Solution {
+    public int countNegatives(int[][] grid) {
+        int m = grid.length;int n = grid[0].length;
+        int count = 0 ,i=m-1,j=0;
+        while(i>=0 && j<n){
+            if(grid[i][j]<0){
+                count += n-j;
+                i--;
+            }
+            else{
+                j++;
+            }
+        }
+        return count;
+    }
+}
+
+Time complexity : O(m+n)
+Space complexity : O(1)
