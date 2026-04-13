@@ -27,7 +27,7 @@ Output: [[0,0,0]]
 Explanation: The only possible triplet sums up to 0.
 
 Solution :
-Approuch : two pointer/sort method
+Approuch : two pointer/sort method and using a single loop
 Thinking : sport the array insially and run a loop for one time like i and 
 the next element of i is j so rujnanother while loop inside between j to the last element(k) 
 
