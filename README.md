@@ -18,7 +18,9 @@ A daily log of my LeetCode problem-solving journey — including problem descrip
 | Mar 25, 2026 | 167 | [Two Sum II - Input Array Is Sorted](Medium/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) | 🟡 Medium | Two Pointers | O(n) | O(1) |
 | Mar 26, 2026 | 345 | [Reverse Vowels of a String](Easy%20/345.%20Reverse%20Vowels%20of%20a%20String) | 🟢 Easy | Two Pointers | O(n) | O(1) |
 | Mar 28, 2026 | 561 | [Array Partition](Easy%20/561.%20Array%20Partition) | 🟢 Easy | Sort | O(n log n) | O(1) |
-| Mar 28, 2026 | 18 | [4Sum](Medium/18.%204Sum) | 🟡 Medium | TBD | TBD | TBD |
+| Mar 28, 2026 | 18 | [4Sum](Medium/18.%204Sum) | 🟡 Medium | Two Pointers | O(n³) | O(1) |
+| Apr 13, 2026 | 881 | [Boats to Save People](Medium/881.%20Boats%20to%20Save%20People) | 🟡 Medium | Two Pointers, Greedy | O(n log n) | O(1) |
+| Apr 14, 2026 | 45 | [Jump Game II](Medium/45.%20Jump%20Game%20II) | 🟡 Medium | Greedy | O(n) | O(1) |
 
 ---
 
@@ -38,7 +40,9 @@ A daily log of my LeetCode problem-solving journey — including problem descrip
 │   ├── 15. 3Sum
 │   ├── 167. Two Sum II - Input Array Is Sorted
 │   ├── 18. 4Sum
-│   └── 55. Jump Game
+│   ├── 45. Jump Game II
+│   ├── 55. Jump Game
+│   └── 881. Boats to Save People
 └── Hard/
 ```
 
@@ -49,7 +53,7 @@ A daily log of my LeetCode problem-solving journey — including problem descrip
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy    | 7      |
-| 🟡 Medium  | 4      |
+| 🟡 Medium  | 6      |
 | 🔴 Hard    | 0      |
-| **Total**  | **11** |
+| **Total**  | **13** |
 
