@@ -21,6 +21,11 @@ A daily log of my LeetCode problem-solving journey — including problem descrip
 | Mar 28, 2026 | 18 | [4Sum](Medium/18.%204Sum) | 🟡 Medium | Two Pointers | O(n³) | O(1) |
 | Apr 13, 2026 | 881 | [Boats to Save People](Medium/881.%20Boats%20to%20Save%20People) | 🟡 Medium | Two Pointers, Greedy | O(n log n) | O(1) |
 | Apr 14, 2026 | 45 | [Jump Game II](Medium/45.%20Jump%20Game%20II) | 🟡 Medium | Greedy | O(n) | O(1) |
+| Apr 27, 2026 | — | [Subarray with 0 sum](Medium/Subarray%20with%200%20sum) | 🟡 Medium | Prefix Sum + Hash Map | O(n) | O(n) |
+| Apr 27, 2026 | — | [Longest Subarray with Sum K](Medium/Longest%20Subarray%20with%20Sum%20K) | 🟡 Medium | Prefix Sum + Hash Map | O(n) | O(n) |
+| Apr 27, 2026 | 560 | [Subarray Sum Equals K](Medium/560.%20Subarray%20Sum%20Equals%20K) | 🟡 Medium | Prefix Sum + Hash Map | O(n) | O(n) |
+| Apr 27, 2026 | 929 | [Unique Email Addresses](Easy%20/929.%20Unique%20Email%20Addresses) | 🟢 Easy | Hash Set + String Parsing | O(n·L) | O(n) |
+| Apr 27, 2026 | 3070 | [Count Submatrices with Top-Left Element and Sum Less Than k](Medium/3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k) | 🟡 Medium | 2D Prefix Sum | O(m·n) | O(m·n) |
 
 ---
 
@@ -30,11 +35,12 @@ A daily log of my LeetCode problem-solving journey — including problem descrip
 .
 ├── Easy/
 │   ├── 345. Reverse Vowels of a String
+│   ├── 448. Find All Numbers Disappeared in an Array
+│   ├── 561. Array Partition
+│   ├── 929. Unique Email Addresses
 │   ├── 1051. Height Checker
 │   ├── 1351. Count Negative Numbers in a Sorted Matrix
 │   ├── 1929. Concatenation of Array
-│   ├── 448. Find All Numbers Disappeared in an Array
-│   ├── 561. Array Partition
 │   └── 2965. Find Missing and Repeated Values
 ├── Medium/
 │   ├── 15. 3Sum
@@ -42,7 +48,11 @@ A daily log of my LeetCode problem-solving journey — including problem descrip
 │   ├── 18. 4Sum
 │   ├── 45. Jump Game II
 │   ├── 55. Jump Game
-│   └── 881. Boats to Save People
+│   ├── 560. Subarray Sum Equals K
+│   ├── 881. Boats to Save People
+│   ├── 3070. Count Submatrices with Top-Left Element and Sum Less Than k
+│   ├── Longest Subarray with Sum K
+│   └── Subarray with 0 sum
 └── Hard/
 ```
 
@@ -52,8 +62,8 @@ A daily log of my LeetCode problem-solving journey — including problem descrip
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 7      |
-| 🟡 Medium  | 6      |
+| 🟢 Easy    | 8      |
+| 🟡 Medium  | 10     |
 | 🔴 Hard    | 0      |
-| **Total**  | **13** |
+| **Total**  | **18** |
 
