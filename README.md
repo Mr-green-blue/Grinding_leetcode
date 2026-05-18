@@ -26,6 +26,8 @@ A daily log of my LeetCode problem-solving journey — including problem descrip
 | Apr 27, 2026 | 560 | [Subarray Sum Equals K](Medium/560.%20Subarray%20Sum%20Equals%20K) | 🟡 Medium | Prefix Sum + Hash Map | O(n) | O(n) |
 | Apr 27, 2026 | 929 | [Unique Email Addresses](Easy%20/929.%20Unique%20Email%20Addresses) | 🟢 Easy | Hash Set + String Parsing | O(n·L) | O(n) |
 | Apr 27, 2026 | 3070 | [Count Submatrices with Top-Left Element and Sum Less Than k](Medium/3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k) | 🟡 Medium | 2D Prefix Sum | O(m·n) | O(m·n) |
+| May 18, 2026 | 852 | [Peak Index in a Mountain Array](Medium/852.%20Peak%20Index%20in%20a%20Mountain%20Array) | 🟡 Medium | Binary Search | O(log n) | O(1) |
+| May 18, 2026 | 540 | [Single Element in a Sorted Array](Medium/540.%20Single%20Element%20in%20a%20Sorted%20Array) | 🟡 Medium | Binary Search | O(log n) | O(1) |
 
 ---
 
@@ -44,11 +46,13 @@ A daily log of my LeetCode problem-solving journey — including problem descrip
 │   └── 2965. Find Missing and Repeated Values
 ├── Medium/
 │   ├── 15. 3Sum
-│   ├── 167. Two Sum II - Input Array Is Sorted
 │   ├── 18. 4Sum
 │   ├── 45. Jump Game II
 │   ├── 55. Jump Game
+│   ├── 167. Two Sum II - Input Array Is Sorted
+│   ├── 540. Single Element in a Sorted Array
 │   ├── 560. Subarray Sum Equals K
+│   ├── 852. Peak Index in a Mountain Array
 │   ├── 881. Boats to Save People
 │   ├── 3070. Count Submatrices with Top-Left Element and Sum Less Than k
 │   ├── Longest Subarray with Sum K
@@ -63,7 +67,7 @@ A daily log of my LeetCode problem-solving journey — including problem descrip
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy    | 8      |
-| 🟡 Medium  | 10     |
+| 🟡 Medium  | 12     |
 | 🔴 Hard    | 0      |
-| **Total**  | **18** |
+| **Total**  | **20** |
 
